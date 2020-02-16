@@ -1,4 +1,4 @@
-# PARSERA
+# PARSER
 An example how you can use selenium + beautiful soup for parsing websites. Quora and https://www.akusherstvo.ru/ selected for educational purpose only.
 
 
